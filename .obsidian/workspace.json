@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/travis.md",
+                "file": "content/post/Untitled.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "travis"
+              "title": "Untitled"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,7 +197,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "9c494dc3d03a6c78",
+  "active": "ce32bec5bce26b82",
   "lastOpenFiles": [
     "content/post/travis.md",
     "content/post/Untitled.md",
