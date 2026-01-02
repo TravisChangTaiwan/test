@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/travis.md",
-                "mode": "source",
+                "file": "content/notes/index.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "travis"
+              "title": "index"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/travis.md",
+                "file": "content/notes/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for travis"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/travis.md",
+                "file": "content/notes/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from travis"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/travis.md",
+                "file": "content/notes/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of travis"
+              "title": "Outline of index"
             }
           }
         ]
@@ -200,6 +200,9 @@
   },
   "active": "04c5e33956cfb65e",
   "lastOpenFiles": [
+    "content/archive/index.md",
+    "content/post/travis.md",
+    "content/notes/index.md",
     "static/img/favicon.ico",
     "static/img/Gemini_Generated_Image_2nnuxs2nnuxs2nnu.png",
     "public/img/favicon1.ico",
@@ -215,7 +218,6 @@
     "avatar.jpeg",
     "favicon.ico",
     "content/post/Untitled 1.md",
-    "content/post/travis.md",
     "content/post/Untitled.md",
     "public/webfonts/fa-solid-900.woff2",
     "public/webfonts/fa-brands-400.woff2",
@@ -223,7 +225,6 @@
     "public/webfonts",
     "public/img/reward/wechat-btn.png",
     "public/img/reward/wechat-50.png",
-    "content/notes/index.md",
     "content/post/2017-11-03-hello-world.md",
     "content/testdraft(不顯示到網路）/2018-06-04-introducing-the-istio-v1alpha3-routing-api.md",
     "content/testdraft(不顯示到網路）/2018-05-22-user_authentication_authorization.md",
