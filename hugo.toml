@@ -1,4 +1,4 @@
-baseurl = "https://zhaohuabing.com"
+baseURL = "https://growingthinker.com/"
 title = "Huabing Blog"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
