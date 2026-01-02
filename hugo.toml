@@ -20,7 +20,7 @@ hasCJKLanguage = true
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  favicon = "img/favicon.png"
+  favicon = "img/favicon1.png"
   header_image = "img/home-bg-jeep.jpg"
   SEOTitle = "Growing Thinker | Travis Blog"
   description = "Travis，Obsidian愛好者 | 這裡是Travi的Blob，與你探索知識複利的世界。"
