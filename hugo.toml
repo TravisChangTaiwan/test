@@ -1,4 +1,4 @@
-baseurl = "https://growingthinker.com/"
+baseurl = "https://growingthinker.com"
 title = "Growing Thinker"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
