@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/Untitled.md",
+                "file": "content/post/travis.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "travis"
             }
           },
           {
@@ -27,26 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/Untitled 1.md",
+                "file": "content/post/travis.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
-            }
-          },
-          {
-            "id": "1983d345d5669621",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/Untitled.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "travis"
             }
           }
         ],
@@ -123,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/Untitled 1.md",
+                "file": "content/post/travis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled 1"
+              "title": "Backlinks for travis"
             }
           },
           {
@@ -142,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/Untitled 1.md",
+                "file": "content/post/travis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled 1"
+              "title": "Outgoing links from travis"
             }
           },
           {
@@ -185,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/Untitled 1.md",
+                "file": "content/post/travis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 1"
+              "title": "Outline of travis"
             }
           }
         ]
@@ -214,6 +200,9 @@
   },
   "active": "04c5e33956cfb65e",
   "lastOpenFiles": [
+    "content/post/Untitled 1.md",
+    "content/post/travis.md",
+    "content/post/Untitled.md",
     "public/webfonts/fa-solid-900.woff2",
     "public/webfonts/fa-brands-400.woff2",
     "public/webfonts/fa-brands-400.woff",
@@ -234,10 +223,6 @@
     "public/index.xml",
     "public/algolia.json",
     "public/js/reward.js",
-    "public/js/production.min.js",
-    "content/post/Untitled.md",
-    "content/post/Untitled 1.md",
-    "content/post/travis.md",
     "content/notes/index.md",
     "content/post/2017-11-03-hello-world.md",
     "content/testdraft(不顯示到網路）/2018-06-04-introducing-the-istio-v1alpha3-routing-api.md",
