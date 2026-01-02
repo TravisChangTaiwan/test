@@ -1,20 +1,21 @@
 ---
-layout:     post
-
-title:      "微服务安全沉思录之二"
-subtitle:   "服务间认证与鉴权"
-description: "除来自用户的访问请求以外，微服务应用中的各个微服务相互之间还有大量的访问,根据应用系统数据敏感程度不同，对于系统内微服务的访问也需要进行相应的安全控制。"
+layout: post
+title: 微服务安全沉思录之二
+subtitle: 服务间认证与鉴权
+description: 除来自用户的访问请求以外，微服务应用中的各个微服务相互之间还有大量的访问,根据应用系统数据敏感程度不同，对于系统内微服务的访问也需要进行相应的安全控制。
 showonlyimage: false
-excerpt: "除来自用户的访问请求以外，微服务应用中的各个微服务相互之间还有大量的访问,根据应用系统数据敏感程度不同，对于系统内微服务的访问也需要进行相应的安全控制。"
+excerpt: 除来自用户的访问请求以外，微服务应用中的各个微服务相互之间还有大量的访问,根据应用系统数据敏感程度不同，对于系统内微服务的访问也需要进行相应的安全控制。
 author:     "赵化冰"
-date:     2018-05-23T15:00:00
-image: "/img/2018-05-23-service_2_service_auth/background.jpg"
+date: 2018-05-23T15:00:00
+image: /img/2018-05-23-service_2_service_auth/background.jpg
 publishDate: 2018-05-23T15:00:00
 tags:
-    - Microservice
-    - Security
-URL: "/2018/05/23/service_2_service_auth/"
-categories: [ Tech ]    
+  - Microservice
+  - Security
+URL: /2018/05/23/service_2_service_auth/
+categories:
+  - Tech
+draft: "true"
 ---
 
 

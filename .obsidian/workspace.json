@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/about/index-zh.md",
+                "file": "content/notes/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index-zh"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/about/index-zh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index-zh"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/about/index-zh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index-zh"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/about/index-zh.md",
+                "file": "content/post/2017-11-03-hello-world.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index-zh"
+              "title": "Outline of 2017-11-03-hello-world"
             }
           }
         ]
@@ -183,8 +181,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "faa0d8893a3a6754",
+  "active": "9c494dc3d03a6c78",
   "lastOpenFiles": [
-    "content/about/index.md"
+    "content/testdraft(不顯示到網路）/2018-06-04-introducing-the-istio-v1alpha3-routing-api.md",
+    "content/testdraft(不顯示到網路）/2018-05-22-user_authentication_authorization.md",
+    "content/testdraft(不顯示到網路）/2018-05-23-istio-auto-injection-with-webhook.md",
+    "content/testdraft(不顯示到網路）/2018-02-03-authentication-and-authorization-of-microservice.md",
+    "content/testdraft(不顯示到網路）/2018-05-01-may-day-jiulonghu.md",
+    "content/testdraft(不顯示到網路）/2018-04-16-using-helm-to-deploy-to-kubernetes.md",
+    "content/testdraft(不顯示到網路）/2018-02-09-docker-without-sudo.md",
+    "content/testdraft(不顯示到網路）/2017-11-04-istio-install_and_example.md",
+    "content/testdraft(不顯示到網路）/2017-11-03-hello-world.md",
+    "content/testdraft(不顯示到網路）/readme.md",
+    "content/testdraft(不顯示到網路）/2025-07-06-mathematical-formulae.md",
+    "content/testdraft(不顯示到網路）/2018-02-09-vim-tips.md",
+    "content/testdraft(不顯示到網路）/2018-01-02-nginmesh-install.md",
+    "content/testdraft(不顯示到網路）/2018-04-11-service-mesh-vs-api-gateway.md",
+    "content/testdraft(不顯示到網路）/2018-03-13-use-docker-behind-http-proxy.md",
+    "content/testdraft(不顯示到網路）/2018-03-29-what-is-service-mesh-and-istio.md",
+    "content/testdraft(不顯示到網路）/index-zh.md",
+    "content/testdraft(不顯示到網路）/2018-05-23-service_2_service_auth.md",
+    "content/testdraft(不顯示到網路）/2017-11-07-istio-traffic-shifting.md",
+    "content/testdraft(不顯示到網路）/2017-11-08-istio-canary-release.md",
+    "content/testdraft(不顯示到網路）/2018-06-02-istio08.md",
+    "content/testdraft(不顯示到網路）/2018-05-23-external_system_auth.md",
+    "content/testdraft(不顯示到網路）/2017-11-28-access-application-from-outside.md",
+    "content/testdraft(不顯示到網路）/2018-05-21-algolia-integration-with-jekyll.md",
+    "content/testdraft(不顯示到網路）/2018-05-24-set_up_my_ubuntu_desktop.md",
+    "content/notes/index.md",
+    "content/testdraft(不顯示到網路）"
   ]
 }

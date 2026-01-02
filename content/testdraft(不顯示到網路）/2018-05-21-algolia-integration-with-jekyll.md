@@ -1,17 +1,18 @@
 ---
-layout:     post
-title:      "使用Algolia为Gitpage博客提供站内搜索"
-subtitle:   ""
-date:       2018-05-21 11:00:00
-author:     "赵化冰"
-image: "/img/2018-05-06-cryptocurrency_week1/bitcoin_header.jpg"
+layout: post
+title: 使用Algolia为Gitpage博客提供站内搜索
+subtitle: ""
+date: 2018-05-21 11:00:00
+author: 赵化冰
+image: /img/2018-05-06-cryptocurrency_week1/bitcoin_header.jpg
 publishDate: 2018-05-21 11:00:00
 tags:
-    - Jekyll:q 
-    - Bitcoin
-categories: [ Tech ]
-URL: "/2018/05/21/algolia-integration-with-jekyll"
-
+  - Jekyll:q
+  - Bitcoin
+categories:
+  - Tech
+URL: /2018/05/21/algolia-integration-with-jekyll
+draft: "true"
 ---
 
 > This series of articles are my notes of "Bitcoin and Cryptocurrency Technologies" online course.

@@ -1,17 +1,19 @@
 ---
-layout:     post
-title:      "Authoring mathematical formulae"
-description: "Cleanwhite theme now has built-in support for authoring mathematical or chemical equations"
-excerpt: "The theme uses Hugo's embedded instance of the KaTeX display engine to render mathematical markup to HTML at build time."
-date:    2025-07-06
-author: "Andreas Deininger"
-image: "/img/2018-05-23-service_2_service_auth/background.jpg"
+layout: post
+title: Authoring mathematical formulae
+description: Cleanwhite theme now has built-in support for authoring mathematical or chemical equations
+excerpt: The theme uses Hugo's embedded instance of the KaTeX display engine to render mathematical markup to HTML at build time.
+date: 2025-07-06
+author: Andreas Deininger
+image: /img/2018-05-23-service_2_service_auth/background.jpg
 publishDate: 2025-07-06
 tags:
-    - Math
-    - KaTeX 
-URL: "/2025/07/06/mathematical-formulae/"
-categories: [ tips ]    
+  - Math
+  - KaTeX
+URL: /2025/07/06/mathematical-formulae/
+categories:
+  - tips
+draft: "true"
 ---
 
 ## Authoring mathematical and chemical equations
