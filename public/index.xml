@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Growing Thinker</title>
+    <link>https://growingthinker.com/</link>
+    <description>Recent content on Growing Thinker</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Jan 2026 09:00:00 +0800</lastBuildDate>
+    <atom:link href="https://growingthinker.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Travis&#39;s Blog is back</title>
+      <link>https://growingthinker.com/post/travis/</link>
+      <pubDate>Fri, 02 Jan 2026 09:00:00 +0800</pubDate>
+      <guid>https://growingthinker.com/post/travis/</guid>
+      <description>&lt;p&gt;好多年前，我第一次開始學習架設自己的網站，跟大多數人一樣，是照著當時其他部落格的教學，一步一步把 WordPress 架起來的。&lt;/p&gt;&#xA;&lt;p&gt;網站完成後，正好遇上我去念研究所，畢業之後也就沒有再持續寫文章。到了 2025 年初，我索性把主機租用服務停掉了。雖然一個月四百多塊台幣不算貴，但既然沒有在用，就沒有再繼續付費的理由。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Travis&#39;s Blog is back testing</title>
+      <link>https://growingthinker.com/post/untitled/</link>
+      <pubDate>Fri, 02 Jan 2026 09:00:00 +0800</pubDate>
+      <guid>https://growingthinker.com/post/untitled/</guid>
+      <description>&lt;p&gt;好多年前，我第一次開始學習架設自己的網站，跟大多數人一樣，是照著當時其他部落格的教學，一步一步把 WordPress 架起來的。&lt;/p&gt;&#xA;&lt;p&gt;網站完成後，正好遇上我去念研究所，畢業之後也就沒有再持續寫文章&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;dsfsafsda312&lt;/p&gt;&#xA;&lt;p&gt;asdfsafsdaf321321sdaf&#xA;sadfsadfsadfsdaf&#xA;asdfasf&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://growingthinker.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://growingthinker.com/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Travis, a specialist in &lt;a href=&#34;https://obsidian.md/&#34;&gt;Obsidian&lt;/a&gt;, the Zettelkasten method, knowledge management, and parenting. I pride myself on being a self-driven learner and an effective problem solver. In 2024, I taught myself &lt;a href=&#34;https://www.autodesk.com/tw/products/autocad/overview&#34;&gt;AutoCAD&lt;/a&gt;, &lt;a href=&#34;https://sketchup.trimble.com/zh-hant-tw?srsltid=AfmBOor9EEKa8CW9HS6mKirrOogW7bjQ2vUrUBVt6lRBGI5e6lqm30wA&#34;&gt;SketchUp&lt;/a&gt;, and &lt;a href=&#34;https://sketchup.trimble.com/zh-hant-tw/products/layout?srsltid=AfmBOoo8JoNFS6R88ZN3wR90eNydUWRumMsawGvtr4pK4QEwxd808g7e&#34;&gt;LayOut&lt;/a&gt; to design the interior of my new home from scratch. You can find a &lt;a href=&#34;https://www.facebook.com/share/r/17xQtx4maV/&#34;&gt;video of the project here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Business Inquiries:&lt;/strong&gt; &lt;a href=&#34;mailto:mcgogo145@gmail.com&#34;&gt;mcgogo145@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://growingthinker.com/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://growingthinker.com/notes/</guid>
+      <description>&lt;h2 id=&#34;go-语言学习笔记&#34;&gt;&lt;a href=&#34;https://zhaohuabing.com/learning-golang&#34;&gt;Go 语言学习笔记&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;envoy-学习笔记&#34;&gt;&lt;a href=&#34;https://zhaohuabing.com/learning-envoy&#34;&gt;Envoy 学习笔记&lt;/a&gt;&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://growingthinker.com/search/placeholder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://growingthinker.com/search/placeholder/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Posts Archive</title>
+      <link>https://growingthinker.com/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://growingthinker.com/archive/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
