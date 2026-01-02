@@ -2,6 +2,7 @@ baseurl = "https://growingthinker.com/"
 title = "Growing Thinker"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
+summaryLength = 100
 preserveTaxonomyNames = true
 hasCJKLanguage = true
 
