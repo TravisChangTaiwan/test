@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "content/post/Untitled 1.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Untitled 1"
             }
           },
           {
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "content/post/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Untitled 1"
             }
           },
           {
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "content/post/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Untitled 1"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
+                "file": "content/post/Untitled 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Untitled 1"
             }
           }
         ]
@@ -214,8 +214,29 @@
   },
   "active": "04c5e33956cfb65e",
   "lastOpenFiles": [
+    "public/webfonts/fa-solid-900.woff2",
+    "public/webfonts/fa-brands-400.woff2",
+    "public/webfonts/fa-brands-400.woff",
+    "public/webfonts",
+    "public/img/reward/wechat-btn.png",
+    "public/img/reward/wechat-50.png",
+    "public/img/reward/wechat-5.png",
+    "public/img/reward/wechat-2.png",
+    "public/img/reward/wechat-100.png",
+    "public/img/reward/wechat-10.png",
+    "public/img/reward/wechat-1.png",
+    "public/img/reward/alipay-btn.png",
+    "public/img/reward/alipay-50.png",
+    "public/img/reward/alipay-5.png",
+    "public/img/reward",
+    "public/img/favicon.ico",
+    "public/img",
+    "public/index.xml",
+    "public/algolia.json",
+    "public/js/reward.js",
+    "public/js/production.min.js",
     "content/post/Untitled.md",
-    "Untitled.md",
+    "content/post/Untitled 1.md",
     "content/post/travis.md",
     "content/notes/index.md",
     "content/post/2017-11-03-hello-world.md",
@@ -238,8 +259,6 @@
     "content/testdraft(不顯示到網路）/index-zh.md",
     "content/testdraft(不顯示到網路）/2018-05-23-service_2_service_auth.md",
     "content/testdraft(不顯示到網路）/2017-11-07-istio-traffic-shifting.md",
-    "content/testdraft(不顯示到網路）/2017-11-08-istio-canary-release.md",
-    "content/testdraft(不顯示到網路）/2018-06-02-istio08.md",
-    "content/testdraft(不顯示到網路）"
+    "content/testdraft(不顯示到網路）/2017-11-08-istio-canary-release.md"
   ]
 }
