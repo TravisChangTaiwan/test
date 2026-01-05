@@ -1,8 +1,8 @@
 ---
-title: Travis's Blog is back
+title: SoR的困境？
 date: 2026-01-02T09:00:00+08:00
 draft: false
-description: "SoR的困境？"
+description: "不可否認蕭博士對於台灣英文的學習，建立一個更科學的學習架構，特別是在phonemic awareness這部分，幫助許多人能夠更正確發音，然而對於整套系統，我還是想要提出我的一些看法跟問題："
 ---
 
 不可否認蕭博士對於台灣英文的學習，建立一個更科學的學習架構，特別是在phonemic awareness這部分，幫助許多人能夠更正確發音，然而對於整套系統，我還是想要提出我的一些看法跟問題：
