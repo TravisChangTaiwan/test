@@ -9,10 +9,9 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 ">
                 <div class="site-heading">
-                    {{ if .IsHome }}
                     <h1>{{ .Site.Title}} </h1>
+                    <!--<hr class="small">-->
                     <span class="subheading">{{ .Site.Params.slogan }}</span>
-                    {{ end }}
                 </div>
             </div>
         </div>
@@ -24,6 +23,7 @@
 {{ end }}
 
 {{ partial "footer.html" . }}
+<script src="{{ "js/dynamic-title.js" | relURL }}"></script>
 {{ if .Store.Get "hasMermaid" }}
   <!-- Use the UMD build instead of ESM so Cloudflare won't rewrite it -->
   <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"
